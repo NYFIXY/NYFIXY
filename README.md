@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Hi.</h1>
+<h1 data-importer="text" align="left">Hi 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi, 👋<br><br>1st-year Electronics & Communication Engineering student, interested in robotics, chip design (VLSI) and software development.<br><br>🛠️ Skills<br><br>C, Python<br><br>📫 How to Reach Me<br><br>LinkedIn: <a href="https://www.linkedin.com/in/Harshilrayen">My LinkedIn</a></p>
+<p data-importer="text" align="left">1st-year Electronics & Communication Engineering student, interested in robotics, chip design (VLSI) and software development.<br><br>🛠️ Skills<br><br>C, Python<br><br>📫 How to Reach Me<br><br>LinkedIn: <a href="https://www.linkedin.com/in/Harshilrayen">My LinkedIn</a></p>
 
 ###
 
