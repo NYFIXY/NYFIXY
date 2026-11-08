@@ -1,23 +1,22 @@
-<h1 data-importer="text" align="left">Hi 👋</h1>
+# Hi 👋
 
-###
+I'm a first-year Electronics & Communication Engineering student interested in robotics, chip design (VLSI), and software development.
 
-<h2 data-importer="text" align="left">About me</h2>
+## 🛠️ Skills
 
-###
+C, Python
 
-<p data-importer="text" align="left">1st-year Electronics & Communication Engineering student, interested in robotics, chip design (VLSI) and software development.<br><br>🛠️ Skills<br><br>C, Python<br><br>📫 How to Reach Me<br><br>LinkedIn: <a href="https://www.linkedin.com/in/Harshilrayen">My LinkedIn</a></p>
+## 🌱 Currently Learning
 
-###
+- C programming
+- Digital electronics fundamentals
+- Arduino projects
 
-<h2 data-importer="text" align="left">I code with</h2>
+## 💻 I Code With
 
-###
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+## 📫 Reach Me
 
-###
+[LinkedIn](https://www.linkedin.com/in/Harshilrayen)
